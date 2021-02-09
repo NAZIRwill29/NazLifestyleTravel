@@ -1,0 +1,29 @@
+
+/* font-family: Livvic */
+@font-face{
+  font-family: Livvic;
+  src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
+
+/* font-family: Open_Sans_Condensed */
+@font-face{
+  font-family: Open_Sans_Condensed;
+  src: url('../fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf');
+}
+/* font-family: Raleway */
+@font-face{
+  font-family: Raleway;
+  src: url('../fonts/Raleway/static/Raleway-Bold.ttf');
+}
+
+/* font-family: Source_Sans_Pro */
+@font-face{
+  font-family: Source_Sans_Pro;
+  src: url('../fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf');
+}
+
+/* font-family: Yusei_Magic */
+@font-face{
+  font-family: Yusei_Magic;
+  src: url('../fonts/Yusei_Magic/YuseiMagic-Regular.ttf');
+}
